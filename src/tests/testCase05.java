@@ -8,6 +8,5 @@ public class testCase05 {
 
     //more for test case 5
 
-    //
-    other someone else made these changes
+    //other someone else made these changes
 }
